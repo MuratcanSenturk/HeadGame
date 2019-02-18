@@ -2,8 +2,10 @@
 
 **How To Play**
 
+Download dist folder and run .jar file.
 
 There is a head and boxes that is getting down.
+
 Your objective is escaping to touch them.
 
 
@@ -11,6 +13,7 @@ Your objective is escaping to touch them.
 
 
 Left Arrow: To going left.
+
 Right Arrow: To going right.
 
 **ScreenShots**
