@@ -14,3 +14,12 @@ Left Arrow: To going left.
 Right Arrow: To going right.
 
 **ScreenShots**
+
+
+![Screenshot](Screenshots/screenshot1.png)
+
+![Screenshot](Screenshots/screenshot2.png)
+
+Game over screen:
+
+![Screenshot](Screenshots/screenshot3.png)
